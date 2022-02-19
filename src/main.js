@@ -1,3 +1,6 @@
-const app = document.getElementById('app');
+import {createApp} from "vue";
+import App from './App.vue';
 
-app.innerHTML = 'hello world';
+const app = createApp(App);
+
+app.mount('#app')

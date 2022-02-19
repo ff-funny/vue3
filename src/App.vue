@@ -1,15 +1,18 @@
 <template>
 <div>
-    无限风光在先锋
+    我不理解我不理解我不理解我不理解我不理解
 </div>
 </template>
 
 <script>
 export default {
-    name: "App"
+    name: "App",
 }
 </script>
 
-<style scoped>
+<style >
+div{
+    color: peachpuff;
+}
 
 </style>
